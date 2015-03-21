@@ -1,4 +1,5 @@
 # Sudoku solver in Ruby
+[![Code Climate](https://codeclimate.com/github/mberning/sudoku/badges/gpa.svg)](https://codeclimate.com/github/mberning/sudoku)
 
 ## Requirements
 You need rspec installed
